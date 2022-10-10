@@ -60,6 +60,7 @@ The NFT world is relatively new. In theory, the scope for NFTs is anything that 
 - [Music royalties via NFTs](https://opulous.org/)
 - [Move 2 earn](https://yeticoineth.com/about.html)
 - [Digital identity](https://photochromic.io/)
+- [Health and Wellness](https://themotion.app)
 
 ### ethereum.org examples {#ethereum-org-examples}
 
